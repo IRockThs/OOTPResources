@@ -4,3 +4,5 @@ Tournament Era Cheat Sheet - A cheat sheet that allows users to quickly compare 
 
 
 Iron Model Publish December 7 - Initial model created after the live updates. Contains all cards through plat 4.
+
+Bronze Live - A Bronze Live Double Elimination Tournament model. Not nearly as solid as the Iron model, in part due to Bronze Live not being able to model defense effectively. I added a position adjustment to the final WAR number (not vL/vR) to account for their position differences, but this should be used more as a guide than a bible.
