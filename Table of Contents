@@ -7,4 +7,6 @@ Iron Model Publish December 7 - Initial model created after the live updates. Co
 
 Bronze Live - A Bronze Live Double Elimination Tournament model. Not nearly as solid as the Iron model, in part due to Bronze Live not being able to model defense effectively. I added a position adjustment to the final WAR number (not vL/vR) to account for their position differences, but this should be used more as a guide than a bible.
 
-Iron Model June Live Update - Iron model for PT 24 with the June live update as the most recent cards.
+Iron Model - Most up to date Iron model unless otherwise noted. Version history in the file tells you what the latest change(s) are.
+
+Iron Late May Export - raw exports from Daily Late Iron tournaments using YourKidnies' export formats. 
