@@ -9,4 +9,8 @@ Bronze Live - A Bronze Live Double Elimination Tournament model. Not nearly as s
 
 Iron Model - Most up to date Iron model unless otherwise noted. Version history in the file tells you what the latest change(s) are.
 
-Iron Late May Export - raw exports from Daily Late Iron tournaments using YourKidnies' export formats. 
+Iron Late May Export - raw exports from Daily Late Iron tournaments using YourKidnies' export formats.
+
+Live Perfect Draft Model - model trained on data from after the BABIP change, modeling the June Live Update cards.
+
+Live Perfect Draft Latter May - Data used to build the Live Perfect Draft Model
