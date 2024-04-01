@@ -1,8 +1,11 @@
-PT Card List with Card Sets - Contains the PT Card list with columns showing if the card is packable, a mission reward, or a tournament reward. Includes Plat Series and Limited Editions as well. Primarily designed to allow TTC members to determine how easy a card will be to obtain. Updated through 1/2/23.
+Data Exports: Contains the exports for various models if anyone wants access to the raw data.
 
 Tournament Era Cheat Sheet - A cheat sheet that allows users to quickly compare run environments to the modern era. Useful for building era tournament rosters.
 
+Iron Model - The most recent iron model. This one is built from Iron Quick data from the first two weeks of the game. Updated with the cards released on April 1.
 
+
+PT 24 Folder:
 Iron Model Publish December 7 - Initial model created after the live updates. Contains all cards through plat 4.
 
 Bronze Live - A Bronze Live Double Elimination Tournament model. Not nearly as solid as the Iron model, in part due to Bronze Live not being able to model defense effectively. I added a position adjustment to the final WAR number (not vL/vR) to account for their position differences, but this should be used more as a guide than a bible.
@@ -12,12 +15,10 @@ Iron Model - Most up to date Iron model unless otherwise noted. Version history 
 
 Live Perfect Draft Model - model trained on data from after the BABIP change, modeling the June Live Update cards.
 
-
-
-Data Exports contains the exports for various models if anyone wants access to the raw data:
-
 Live Perfect Draft Latter May - Data used to build the Live Perfect Draft Model
 
 Iron Late May Export - raw exports from Daily Late Iron tournaments using YourKidnies' export formats.
 
 Iron Late May Model - raw exports from Daily Late Iron tournaments in the second half of June using YourKidnies' export formats.
+
+
