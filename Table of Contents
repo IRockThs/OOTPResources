@@ -1,9 +1,10 @@
 Data Exports: Contains the exports for various models if anyone wants access to the raw data.
 
-Tournament Era Cheat Sheet - A cheat sheet that allows users to quickly compare run environments to the modern era. Useful for building era tournament rosters.
+Tournament Era Cheat Sheet - A cheat sheet that allows users to quickly compare run environments to the modern era. Useful for building era tournament rosters. NOTE: the pitcher requirements are possibly out of date. AngeredUnicorn has noted issues with stamina in 26 that mean you might need more pitchers in all modern formats (13 or 14), and I have seen some recommendations to carry more than 3 starters earlier than the 1960s. I need to learn more about these changes before I update this file.
 
-Iron Model - The most recent iron model. This one is built from Iron Quick data from the first two weeks of the game. Updated with the cards released on April 1.
+Iron Model - The most recent iron model. There is some inconsistencies noted in the file. I would say that this is about 80% accurate, but a very good start to 26.
 
+PT25: I only made an iron model for PT25 before I quit, so it's a smaller archive.
 
 PT 24 Folder:
 Iron Model Publish December 7 - Initial model created after the live updates. Contains all cards through plat 4.
